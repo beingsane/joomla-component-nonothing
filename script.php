@@ -53,11 +53,11 @@ class com_nonothingInstallerScript
 
 			$db->setQuery($query);
 
-			echo $query;
+			//echo $query;
 
 			try
 			{
-//				$db->execute();
+				$db->execute();
 			}
 			catch (RuntimeException $e)
 			{
