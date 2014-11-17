@@ -9,6 +9,8 @@
 	<version>1.0.0</version>
 	<description>COM_NONOTHING_XML_DESCRIPTION</description>
 
+	<scriptfile>script.php</scriptfile>
+
 	<files folder="site">
 		<filename>nonothing.php</filename>
 		<filename>controller.php</filename>
