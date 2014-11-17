@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<metadata>
+		<layout title="COM_NONOTHING_VIEW_FAKE_TITLE" option="COM_NONOTHING_VIEW_FAKE_OPTION">
+			<message>
+				<![CDATA[COM_NONOTHING_VIEW_FAKE_DESC]]>
+			</message>
+		</layout>
+	</metadata>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension type="component" version="3.0" method="upgrade">
+	<name>com_nonothing</name>
+	<author>Ove Eriksson</author>
+	<creationDate>November 2014</creationDate>
+	<copyright>Copyright (C) 2014 Ove Eriksson.</copyright>
+	<license>GNU General Public License version 2 or later; see LICENSE.txt</license>
+	<authorUrl>https://github.com/schnuti/Joomla-system-plugin-jscdn</authorUrl>
+	<version>1.0.0</version>
+	<description>COM_NONOTHING_XML_DESCRIPTION</description>
+
+	<files folder="site">
+		<filename>nonothing.php</filename>
+		<filename>controller.php</filename>
+		<folder>views</folder>
+	</files>
+
+	<administration>
+		<files folder="admin">
+			<folder>language</folder>
+			<filename>nonothing.php</filename>
+			<filename>script.php</filename>
+		</files>
+	</administration>
+
+</extension>
